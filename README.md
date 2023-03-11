@@ -7,7 +7,7 @@
 
   Filmland is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href=" https://estrella-cutiepie.me/FilmLand1/"><strong>➥ Live Demo</strong></a>
+  <a href="https://estrella-cutiepie.me/FilmLand1/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -30,12 +30,12 @@ To run **Filmland** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/filmlane.git
+sudo git clone https://github.com/successfulfadwa/FilmLand1.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/filmlane.git
+git clone https://github.com/successfulfadwa/FilmLand1.git
 ```
 
