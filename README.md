@@ -7,7 +7,7 @@
 
   Filmland is a fully responsive movie website page, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://estrella-cutiepie.me/FilmLand1/"><strong>➥ Live Demo</strong></a>
+  <a href="https://successfulfadwa.github.io/FilmLand1/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
